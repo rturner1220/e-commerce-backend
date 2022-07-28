@@ -19,7 +19,7 @@ Create the back-end for an e-commerce site that uses the latest technologies so 
     - THEN I am able to successfully create, update, and delete data in my database
 
 # Technologies Use:
-* dotenv
+* Dotenv
 * NPM
 * Express.js
 * Mysql2
