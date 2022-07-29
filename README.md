@@ -1,7 +1,8 @@
 # E-commerce Backend 
 
 ## Github : https://github.com/rturner1220/e-commerce-backend
-## Deployed app : xxxxxxx
+## Deployed app : https://drive.google.com/file/d/1h13HmlwSsHpYVhLkybwLgCmZtUsngblM/view
+
 
 # Description:
 Create the back-end for an e-commerce site that uses the latest technologies so you can compete with other e-commerce companies.
@@ -26,3 +27,4 @@ Create the back-end for an e-commerce site that uses the latest technologies so 
 * sequelize
 
 # Contributor: Rosa Turner
+
